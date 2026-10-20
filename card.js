@@ -3,7 +3,7 @@
 
   const STORAGE_KEY = 'flower.greeting.20-10.em.v1';
   const defaultGreeting = {
-    recipient: 'em gái của anh',
+    recipient: 'Ánh',
     message: 'Nhân ngày Phụ nữ Việt Nam 20/10, anh chúc em gái của anh luôn xinh đẹp, khỏe mạnh và lúc nào cũng tươi cười như trong những bức ảnh này.\n\nNăm lớp 12 sẽ có nhiều áp lực, nhưng anh tin em làm được. Cứ học đều tay, ngủ đủ giấc, ăn uống đầy đủ, và mệt thì nhớ nghỉ ngơi nhé. Kỳ thi sắp tới, chúc em thật bình tĩnh, tự tin và đạt đúng kết quả mình mong muốn.\n\nDù kết quả thế nào, anh và cả nhà vẫn luôn ở phía sau em.',
     sender: 'Anh Minh'
   };
